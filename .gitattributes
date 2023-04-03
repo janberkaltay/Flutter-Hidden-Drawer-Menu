@@ -1,3 +1,2 @@
-*.cpp linguist-detectable=false
 *.CMake linguist-detectable=false
-*.HTML linguist-detectable=false
+*.cpp linguist-detectable=false
